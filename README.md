@@ -17,6 +17,8 @@ git clone https://github.com/Takouchouang/knowledge-mapping.git
 cd knowledge-mapping
 pip install -r requirements.txt
 
+```bash
+
 # Auteurs :
 Takouchouang Fraisse Sacre
 
