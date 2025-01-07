@@ -11,13 +11,10 @@ This repository is dedicated to creating and visualizing knowledge maps to repre
 ## Installation
 
 To set up the project locally, clone the repository and install the required dependencies:
-```bash
 
-git clone https://github.com/Takouchouang/knowledge-mapping.git
-cd knowledge-mapping
-pip install -r requirements.txt
-
-```bash
+- git clone https://github.com/Takouchouang/knowledge-mapping.git
+- cd knowledge-mapping
+- pip install -r requirements.txt
 
 # Auteurs :
 Takouchouang Fraisse Sacre
