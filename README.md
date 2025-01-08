@@ -2,9 +2,9 @@
 Bienvenue dans le Projet de Cartographie de Connaissances ! Ce dépôt fournit des outils pour créer, explorer et visualiser des cartes de connaissances, permettant de représenter et d’analyser efficacement des relations complexes entre concepts et ensembles de données.
 
 # 📌 Fonctionnalités Principales
-Prétraitement des Données : Nettoyez, organisez et structurez facilement des jeux de données bruts pour les intégrer aux cartes.
-Visualisation Avancée : Générez des cartes de connaissances interactives et statiques adaptées à différents cas d'utilisation.
-Grande Extensibilité : Prise en charge de plusieurs formats de données et algorithmes de cartographie personnalisables pour répondre à divers besoins.
+- Prétraitement des Données : Nettoyez, organisez et structurez facilement des jeux de données bruts pour les intégrer aux cartes.
+- Visualisation Avancée : Générez des cartes de connaissances interactives et statiques adaptées à différents cas d'utilisation.
+- Grande Extensibilité : Prise en charge de plusieurs formats de données et algorithmes de cartographie personnalisables pour répondre à divers besoins.
 # 🚀 Guide d’Installation
 Suivez ces étapes pour configurer le projet localement :
 
