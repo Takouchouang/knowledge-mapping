@@ -13,7 +13,6 @@ Ouvrez un terminal et exécutez :
 
 git clone https://github.com/Takouchouang/knowledge-mapping.git
 - Accéder au Répertoire du Projet
-
 cd knowledge-mapping
 - Installer les Dépendances
 - Utilisez la commande suivante pour installer tous les packages nécessaires :
@@ -25,8 +24,8 @@ Une fois installé, vous pouvez commencer à explorer les fonctionnalités du pr
 # 🤝 Contribution
 Nous accueillons vos contributions avec plaisir ! Si vous rencontrez des problèmes, avez des suggestions ou souhaitez améliorer le projet :
 
-Créez une nouvelle branche
-Soumettez une pull request
+- Créez une nouvelle branche
+- Soumettez une pull request
 # 👤 Auteur
-Takouchouang Fraisse Sacre
+## Takouchouang Fraisse Sacre
 N’hésitez pas à me contacter via le système de suivi des problèmes du dépôt pour poser des questions, partager vos retours ou proposer des idées de collaboration.
