@@ -8,22 +8,16 @@ Bienvenue dans le Projet de Cartographie de Connaissances ! Ce dépôt fournit d
 # 🚀 Guide d’Installation
 Suivez ces étapes pour configurer le projet localement :
 
-Cloner le Dépôt
+- Cloner le Dépôt
 Ouvrez un terminal et exécutez :
 
-bash
-Copy code
 git clone https://github.com/Takouchouang/knowledge-mapping.git
-Accéder au Répertoire du Projet
+- Accéder au Répertoire du Projet
 
-bash
-Copy code
 cd knowledge-mapping
-Installer les Dépendances
-Utilisez la commande suivante pour installer tous les packages nécessaires :
+- Installer les Dépendances
+- Utilisez la commande suivante pour installer tous les packages nécessaires :
 
-bash
-Copy code
 pip install -r requirements.txt
 # 🎯 Utilisation
 Une fois installé, vous pouvez commencer à explorer les fonctionnalités du projet en exécutant les scripts fournis ou en intégrant vos propres ensembles de données. Des instructions détaillées sont disponibles dans la documentation (si applicable).
