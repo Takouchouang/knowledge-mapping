@@ -16,6 +16,6 @@ To set up the project locally, clone the repository and install the required dep
 - cd knowledge-mapping
 - pip install -r requirements.txt
 
-# Auteurs :
+# Auteurs 
 Takouchouang Fraisse Sacre
 
