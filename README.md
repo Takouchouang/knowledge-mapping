@@ -23,7 +23,6 @@ Une fois installé, vous pouvez commencer à explorer les fonctionnalités du pr
 
 # 🤝 Contribution
 Nous accueillons vos contributions avec plaisir ! Si vous rencontrez des problèmes, avez des suggestions ou souhaitez améliorer le projet :
-
 - Créez une nouvelle branche
 - Soumettez une pull request
 # 👤 Auteur
